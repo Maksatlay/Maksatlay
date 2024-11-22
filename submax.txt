@@ -1,1 +1,2 @@
 vless://a262b555-67d5-493e-9d4b-ff489f4a6d9c@mod.io:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=testlai.maksatearns.online&fp=randomized&type=ws&sni=testlai.maksatearns.online#Maksat-f8yj0un7u
+ss://bm9uZTo4MWI1NTFkODQ5YjE3YmMx@188.34.202.18:2862#
